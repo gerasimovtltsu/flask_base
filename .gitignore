@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.pyinstaller.log
+
+# Compiled Python files
+*.pyc
+
+# Poetry
+.venv/
+.poetry/
+__pypackages__/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Flask specific
+instance/
