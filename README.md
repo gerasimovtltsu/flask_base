@@ -2,8 +2,14 @@
 
 ## Installation
 1. Clone repository https://github.com/gerasimovtltsu/flask_base.git
-2. Install dependecies via poetry: poetry install
-3. Run project: poetry run flask run
+2. Install dependecies via poetry: 
+```shell
+poetry install
+```
+3. Run project:
+```shell
+poetry run flask run
+```
 4. Open http://localhost:5000 in browser
 
 
