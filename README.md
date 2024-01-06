@@ -16,3 +16,4 @@ poetry run flask run
 ## Structure
 1. app.py: Main application file
 2. config.py: Configuration file
+3. routers/main_router: Main router file
